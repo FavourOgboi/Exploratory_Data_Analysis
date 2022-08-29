@@ -1,0 +1,41 @@
+qid,qname,question,force_resp,type,selector
+QID2,MainBranch,"Which of the following options best describes you today? Here, by ""developer"" we mean ""someone who writes code."" ",TRUE,MC,SAVR
+QID24,Employment,Which of the following best describes your current employment status?,FALSE,MC,MAVR
+QID6,Country,Where do you live? ,TRUE,MC,DL
+QID7,US_State,In which state or territory of the USA do you live? This information will be kept private.,FALSE,MC,DL
+QID9,UK_Country,In which part of the United Kingdom do you live? This information will be kept private.,FALSE,MC,DL
+QID25,EdLevel,Which of the following best describes the highest level of formal education that you’ve completed? *,FALSE,MC,SAVR
+QID149,Age1stCode,"At what age did you write your first line of code or program? (e.g., webpage, Hello World, Scratch project) ",FALSE,MC,MAVR
+QID276,LearnCode,How did you learn to code? Select all that apply.,FALSE,MC,MAVR
+QID32,YearsCode,"Including any education, how many years have you been coding in total?",FALSE,MC,DL
+QID34,YearsCodePro,"NOT including education, how many years have you coded professionally (as a part of your work)?",FALSE,MC,DL
+QID31,DevType,Which of the following describes your current job? Please select all that apply.,FALSE,MC,MAVR
+QID29,OrgSize,Approximately how many people are employed by the company or organization you currently work for?,FALSE,MC,MAVR
+QID50,Currency,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in. *",TRUE,MC,SB
+QID51,CompTotal,"What is your current total compensation (salary, bonuses, and perks, before taxes and deductions), in $? Please enter a whole number in the box below, without any punctuation. If you are paid hourly, please estimate an equivalent weekly, monthly, or yearly salary. If you prefer not to answer, please leave the box empty.",FALSE,TE,SL
+QID52,CompFreq,"Is that compensation weekly, monthly, or yearly?",FALSE,MC,MAVR
+QID233,Language,"Which programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the language and want to continue to do so, please check both boxes in that row.)",FALSE,Matrix,Likert
+QID262,Database,"Which database environments have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the database and want to continue to do so, please check both boxes in that row.)",FALSE,Matrix,Likert
+QID263,Platform,"Which cloud platforms have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the platform and want to continue to do so, please check both boxes in that row.)",FALSE,Matrix,Likert
+QID264,Webframe,"Which web frameworks and libraries have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)",FALSE,Matrix,Likert
+QID265,MiscTech,"Which other frameworks and libraries have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)",FALSE,Matrix,Likert
+QID275,ToolsTech,"Which tools have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the technology and want to continue to do so, please check both boxes in that row.)",FALSE,Matrix,Likert
+QID274,NEWCollabTools,"Which development environments did you use regularly over the past year, and which do you want to work with over the next year? Please check all that apply.",FALSE,Matrix,Likert
+QID71,OpSys,What is the primary operating system in which you work? *,FALSE,MC,SAVR
+QID243,NEWStuck,What do you do when you get stuck on a problem? Select all that apply.,FALSE,MC,MAVR
+QID266,NEWSOSites,Which of the following Stack Overflow sites have you visited? Select all that apply.,FALSE,MC,MAVR
+QID100,SOVisitFreq,How frequently would you say you visit Stack Overflow?,FALSE,MC,MAVR
+QID101,SOAccount,Do you have a Stack Overflow account?,FALSE,MC,MAVR
+QID102,SOPartFreq,"How frequently would you say you participate in Q&amp;A on Stack Overflow? By participate we mean ask, answer, vote for, or comment on questions.",FALSE,MC,MAVR
+QID106,SOComm,Do you consider yourself a member of the Stack Overflow community?,FALSE,MC,MAVR
+QID267,NEWOtherComms,Are you a member of any other online developer communities?,FALSE,MC,MAVR
+QID268,NEWOtherCommsNames,"Please name up to 5 other online developer communities you belong to, and indicate whether they are public (anyone can join) or private (invitation required).",FALSE,Matrix,Likert
+QID127,Age,What is your age?,FALSE,MC,MAVR
+QID122,Gender,"Which of the following describe you, if any? Please check all that apply.",FALSE,MC,MAVR
+QID153,Trans,Do you identify as transgender?,FALSE,MC,MAVR
+QID136,Sexuality,"Which of the following describe you, if any? Please check all that apply.",FALSE,MC,MAVR
+QID126,Ethnicity,"Which of the following describe you, if any? Please check all that apply.",FALSE,MC,MAVR
+QID124,Accessibility,"Which of the following describe you, if any? Please check all that apply. ",FALSE,MC,MAVR
+QID125,MentalHealth,"Which of the following describe you, if any? Please check all that apply. ",FALSE,MC,MAVR
+QID132,SurveyLength,How do you feel about the length of the survey this year?,FALSE,MC,MAVR
+QID133,SurveyEase,How easy or difficult was this survey to complete?,FALSE,MC,MAVR
